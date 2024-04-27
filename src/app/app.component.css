@@ -1,0 +1,67 @@
+.note-wrapper{
+    margin: auto;
+    text-align: center;
+    width: 30%;
+    padding: 10px;
+}
+
+.notesTitle{
+    margin: auto;
+    width: 70%;
+    border-radius: 10%;
+    padding: 10px;
+}
+
+.notesContent{
+    margin: auto;
+    width: 70%;
+    line-height: 10em;
+    border-radius: 10%;
+    padding: 10px;
+}
+
+.element{
+    margin: auto;
+    width: 80%;
+    padding: 10px;
+    border: solid blue;
+}
+
+.error{
+    color: red;
+}
+
+.error-input{
+    border: solid red;
+}
+
+.save-note{
+    margin: auto;
+    padding: 10px;
+    width: 70%;
+    align-items: center;
+    border-radius: 10%;
+}
+
+.note-panel{
+    margin: auto;
+    float: right;
+    clear: both;
+    width: 30%;
+    padding: 10px;
+}
+
+.editButton{
+    margin: auto;
+    width: 42.5%;
+    padding: 10px;
+}
+.deleteButton{
+    margin: auto;
+    width: 42.5%;
+    padding: 10px;
+}
+
+.note-panel{
+    text-align: center;
+}
